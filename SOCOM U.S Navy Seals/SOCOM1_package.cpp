@@ -1,9 +1,10 @@
 #pragma once
-#include "../../../pch.h"
+#include "pch.h"
+#include "SOCOM1_package.h"
 
 /**
  * Name: PlayStation2 - PCSX2 :: SOCOM U.S NAVY SEALs
- * Version: 0.0.1
+ * Version: 1.0.0
  * Author: NightFyre
 */
 
