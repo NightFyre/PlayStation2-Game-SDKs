@@ -1,0 +1,4 @@
+# SOCOM U.S. Navy Seals
+
+SERIAL: SCUS-97134
+CRC: 	6F4056DB
