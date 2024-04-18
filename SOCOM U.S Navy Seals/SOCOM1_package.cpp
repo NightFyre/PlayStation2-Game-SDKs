@@ -1,5 +1,5 @@
 #pragma once
-#include "CDK.h"
+#include <CDK.h>
 #include "SOCOM1_package.h"
 
 /**
