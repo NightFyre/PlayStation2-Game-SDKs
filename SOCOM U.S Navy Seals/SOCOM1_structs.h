@@ -229,6 +229,12 @@ namespace PlayStation2
 
 		};
 
+		enum class EStance : __int8
+		{
+			EStand,
+			ECrouch = 1,
+			EProne = 2
+		};
 
 		//	
 		template<typename Z>
